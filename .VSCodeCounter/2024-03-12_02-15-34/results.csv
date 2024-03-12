@@ -1,0 +1,10 @@
+"filename", "language", "CSV", "comment", "blank", "total"
+"/workspaces/WALanguageDiversity/data/Counties.csv", "CSV", 18998, 0, 1, 18999
+"/workspaces/WALanguageDiversity/data/DP02AncestryLanguagesSpokenAtHome.csv", "CSV", 173, 0, 1, 174
+"/workspaces/WALanguageDiversity/data/DetailedAncestryB04006.csv", "CSV", 110, 0, 0, 110
+"/workspaces/WALanguageDiversity/data/S1401SchoolEnrollment.csv", "CSV", 35, 0, 1, 36
+"/workspaces/WALanguageDiversity/data/S1501EducationByRace.csv", "CSV", 69, 0, 1, 70
+"/workspaces/WALanguageDiversity/data/S1601LanguagesSpokenAtHome.csv", "CSV", 27, 0, 1, 28
+"/workspaces/WALanguageDiversity/data/SchoolDistrictPPEAverages.csv", "CSV", 319, 0, 1, 320
+"/workspaces/WALanguageDiversity/data/small_census_test.csv", "CSV", 27, 0, 0, 27
+"Total", "-", 19758, 0, 6, 19764
